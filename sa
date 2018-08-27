@@ -1,0 +1,46 @@
+[33mcommit ff595b6fbd1e97321052737934f962684e9a1c8e[m
+Author: tran hoang.longb <tran.hoang.longb@framgia.com>
+Date:   Mon Aug 27 15:39:01 2018 +0700
+
+    Commit to master
+
+[33mcommit 181b6670a222a9677489ab7da970c96752af464b[m
+Merge: c94bb1c 1fa2b92
+Author: tran hoang.longb <tran.hoang.longb@framgia.com>
+Date:   Mon Aug 27 15:30:37 2018 +0700
+
+    Merge branch 'master' of https://github.com/HoangLongBFramgia/LearnGit
+
+[33mcommit 1fa2b92eae9e8b615afeb797e1e356e4ddb1215b[m
+Merge: 13d3f1f f8c4c31
+Author: HoangLongBFramgia <42727270+HoangLongBFramgia@users.noreply.github.com>
+Date:   Mon Aug 27 15:18:16 2018 +0700
+
+    Merge pull request #1 from HoangLongBFramgia/new_branch
+    
+    Commit in branch new_branch
+
+[33mcommit c94bb1c5374f4680f9b39a565099902f5e27c01c[m
+Merge: 6c047f6 f8c4c31
+Author: tran hoang.longb <tran.hoang.longb@framgia.com>
+Date:   Mon Aug 27 15:15:50 2018 +0700
+
+    Merge branch 'new_branch' hihi
+
+[33mcommit f8c4c316dc904cba51ab4836008eb28e7e318c48[m
+Author: tran hoang.longb <tran.hoang.longb@framgia.com>
+Date:   Mon Aug 27 15:11:37 2018 +0700
+
+    Commit in branch new_branch
+
+[33mcommit 6c047f69066ebe09812dfee1b693b6549f9b4a55[m
+Author: tran hoang.longb <tran.hoang.longb@framgia.com>
+Date:   Mon Aug 27 14:58:15 2018 +0700
+
+    Them file text
+
+[33mcommit 13d3f1f76b4552f9c416cda9554253cb3855fab1[m
+Author: HoangLongBFramgia <42727270+HoangLongBFramgia@users.noreply.github.com>
+Date:   Mon Aug 27 13:55:57 2018 +0700
+
+    Initial commit
